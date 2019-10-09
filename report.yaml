@@ -1,0 +1,34 @@
+company: Milestone Studio Labs
+  name: Pentachord
+  logo: milestone_studio_labs.png
+product_hmw: How might we enable children and adults living with physical disabilities to make music?
+product_narrative: |
+  Coming soon.
+team:
+  picture: 
+  roster:
+  - name: Alana Crognale
+    email: 
+    picture: 
+    program: ECE
+  - name: Bar Kadosh
+    email: 
+    picture: 
+    program: CS
+  - name: Johnway Yih
+    email: 
+    picture: 
+    program: MBA
+  - name: Tate Keller
+    email: tak76@cornell.edu
+    picture: images/tate.jpg
+    program: HT
+  - name: Tim Liu
+    email: 
+    picture: 
+    program: HT
+assets:
+- title: Sprint 1
+  url: 
+- title: Sprint 2
+  url: 
