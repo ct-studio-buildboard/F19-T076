@@ -5,27 +5,27 @@ product_hmw: How might we enable children and adults living with physical disabi
 product_narrative: |
   Coming soon.
 team:
-  picture: 
+  picture: team.jpg
   roster:
   - name: Alana Crognale
-    email: 
-    picture: 
+    email: arc232@cornell.edu
+    picture: alana.jpg
     program: ECE
   - name: Bar Kadosh
-    email: 
-    picture: 
+    email: bk497@cornell.edu
+    picture: bar.jpg
     program: CS
   - name: Johnway Yih
-    email: 
-    picture: 
+    email: jy795@cornell.edu
+    picture: johnway.jpg
     program: MBA
   - name: Tate Keller
     email: tak76@cornell.edu
     picture: tate.jpg
     program: HT
   - name: Tim Liu
-    email: 
-    picture: 
+    email: kl925@cornell.edu
+    picture: tim.jpg
     program: HT
 assets:
 - title: Sprint 1
