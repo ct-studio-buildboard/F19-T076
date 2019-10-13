@@ -1,5 +1,1 @@
-Incorrect yaml format for report.yaml: mapping values are not allowed here
-  in "<byte string>", line 2, column 7:
-      name: Pentachord
-          ^.
-Unable to fetch assets for F19-T076.
+Assets we could fetch: ['report.yaml', 'team.jpg', 'alana.jpg', 'bar.jpg', 'johnway.jpg', 'tate.jpg', 'tim.jpg']
