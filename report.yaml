@@ -3,7 +3,7 @@ company:
   logo: milestone_studio_labs.jpg
 product_hmw: How might we enable children and adults living with physical disabilities to make music?
 product_narrative: |
-  More information coming soon!
+  Music creation and production is a process that we would like to help make accessible for all. Software platforms such as Logic Pro and Garageband have preloaded instruments that allow music producers to make sounds using their keyboard. We are building an adaptive controller that will help those living with disabilities to be able to utilize this software to create thier own music.
 team:
   picture: team.jpg
   roster:
